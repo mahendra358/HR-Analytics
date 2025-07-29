@@ -36,3 +36,6 @@ Work-life balance ratings vary by job role. Roles like Research Scientist and He
 🔸Conclusion
 To sum up, this dashboard helps in identifying key problem areas affecting attrition such as promotion stagnation, job satisfaction, and department-wise disparities.
 These insights can guide HR in planning targeted interventions like employee engagement programs, internal mobility, or policy revisions.
+
+<img width="1468" height="834" alt="image" src="https://github.com/user-attachments/assets/474628e1-4946-41e7-9121-fd47972f744d" />
+
