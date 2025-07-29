@@ -21,6 +21,7 @@ The Research & Development department has the highest attrition at 51.21%, follo
 Departments like Sales and Hardware show higher average tenure (around 10.8 years), whereas Support and R&D show slightly lower tenure. The total workforce average is 64.63 years cumulatively.
 🔸Job Role vs Work-Life Balance (Line Chart)
 Work-life balance ratings vary by job role. Roles like Research Scientist and Healthcare Rep are at the lower end (2.47–2.49), while Developer and Manager roles score above 2.5, suggesting better balance.
+
 🔸Conclusion
 To sum up, this dashboard helps in identifying key problem areas affecting attrition such as promotion stagnation, job satisfaction, and department-wise disparities.
 These insights can guide HR in planning targeted interventions like employee engagement programs, internal mobility, or policy revisions.
